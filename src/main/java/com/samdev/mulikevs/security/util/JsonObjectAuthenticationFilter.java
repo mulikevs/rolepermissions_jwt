@@ -11,7 +11,6 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import java.io.BufferedReader;
 import java.io.IOException;
-//http://172.16.19.15/syscbiuat/en/coop_bank/cases/main
 @Slf4j
 public class JsonObjectAuthenticationFilter extends UsernamePasswordAuthenticationFilter {
 
